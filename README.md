@@ -648,20 +648,7 @@ streamlit run app.py
 
 ---
 
-## 📚 참고 자료
 
-### 공식 문서
-- [Ollama 공식 문서](https://ollama.ai)
-- [Streamlit 라이브러리](https://docs.streamlit.io)
-- [OpenAI Whisper](https://github.com/openai/whisper)
-- [Gemma2 모델 카드](https://huggingface.co/google/gemma-2-7b)
-
-### 관련 논문 & 기술 블로그
-- "Natural Language Understanding for Task-Oriented Dialogue" (Google)
-- "Voice-Based Interfaces: Design and Usability" (ACM CHI)
-- [Streamlit Caching 최적화](https://docs.streamlit.io/library/advanced-features/caching)
-
----
 
 ## 🤝 기여 가이드
 
@@ -673,33 +660,6 @@ streamlit run app.py
 4. **Push** (`git push origin feature/amazing-feature`)
 5. **Pull Request** 오픈
 
----
-
-## 👨‍💼 프로젝트 담당자
-
-**개발자**: [Your Name]  
-📧 Email: your.email@example.com  
-🔗 GitHub: [@your-username](https://github.com/your-username)  
-💼 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-
-📅 **프로젝트 완료 일자**: 2024년 11월 ~ 2025년 1월
-
----
-
-## 📝 라이선스
-
-이 프로젝트는 **MIT License** 하에서 배포됩니다.  
-자유롭게 사용, 수정, 배포 가능합니다.
-
-```
-MIT License
-
-Copyright (c) 2025 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
 
 ---
 
