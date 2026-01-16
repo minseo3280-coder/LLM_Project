@@ -713,15 +713,6 @@ in the Software without restriction...
 
 ---
 
-## 📞 지원 및 문의
-
-**문제가 발생하셨나요?**
-
-1. **GitHub Issues** 에서 확인: [Issues 페이지](https://github.com/your-username/LLM_AI_Kiosk_System/issues)
-2. **자주 묻는 질문 (FAQ)**: [FAQ 문서](./FAQ.md)
-3. **이메일 지원**: your.email@example.com
-
----
 
 ## 📊 프로젝트 통계
 
